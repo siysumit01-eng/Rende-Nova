@@ -1,0 +1,6 @@
+{
+  "name": "Render Nova",
+  "description": "Professional video editing and graphic design services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
